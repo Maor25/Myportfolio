@@ -1,0 +1,28 @@
+
+img{
+  width: 150px;
+  height: 200px;
+
+}
+h1{
+  font-style: oblique;
+}
+body{
+  background-color: silver;
+}
+h3{
+  font-style: italic;
+}
+
+h5{
+  font-style: italic;
+
+}
+
+a {
+  color: hotpink;
+}
+p{
+  font-weight: bold;
+  font-style: oblique;
+}
